@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@lottiefiles/react-lottie-player": "^3.5.3",
+    "@rive-app/react-canvas": "^4.8.6",
     "classnames": "^2.5.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
